@@ -1,0 +1,34 @@
+# Database & logs — never commit these
+users.db
+*.log
+logs/
+
+# Runtime folders
+uploads/
+output/
+archive/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.*
