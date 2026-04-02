@@ -1,0 +1,83 @@
+2026-02-17 14:00:41,309 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-17 14:00:41,309 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-17 14:00:41,312 - INFO -  * Restarting with stat
+2026-02-17 14:00:41,777 - WARNING -  * Debugger is active!
+2026-02-17 14:00:41,782 - INFO -  * Debugger PIN: 115-575-264
+2026-02-17 14:00:53,531 - INFO - 127.0.0.1 - - [17/Feb/2026 14:00:53] "GET / HTTP/1.1" 200 -
+2026-02-17 14:06:35,525 - INFO - Uploaded file: Scanned_Document_2.pdf
+2026-02-17 14:06:35,534 - INFO - 127.0.0.1 - - [17/Feb/2026 14:06:35] "POST / HTTP/1.1" 200 -
+2026-02-18 06:32:55,454 - INFO - 127.0.0.1 - - [18/Feb/2026 06:32:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-02-18 07:47:07,329 - INFO -  * Detected change in 'D:\\InvoiceWebApp\\extract_invoice_assets.py', reloading
+2026-02-18 07:47:07,581 - INFO -  * Restarting with stat
+2026-02-18 07:47:31,828 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-18 07:47:31,828 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-18 07:47:31,830 - INFO -  * Restarting with stat
+2026-02-18 07:47:32,348 - WARNING -  * Debugger is active!
+2026-02-18 07:47:32,368 - INFO -  * Debugger PIN: 115-575-264
+2026-02-18 07:47:35,396 - INFO - 127.0.0.1 - - [18/Feb/2026 07:47:35] "GET / HTTP/1.1" 200 -
+2026-02-18 07:49:45,556 - INFO - Uploaded file: Scanned_Document_2.pdf
+2026-02-18 07:49:45,572 - INFO - 127.0.0.1 - - [18/Feb/2026 07:49:45] "POST / HTTP/1.1" 200 -
+2026-02-18 07:50:05,441 - INFO - 127.0.0.1 - - [18/Feb/2026 07:50:05] "GET /download HTTP/1.1" 200 -
+2026-02-18 07:50:49,453 - INFO - 127.0.0.1 - - [18/Feb/2026 07:50:49] "GET / HTTP/1.1" 200 -
+2026-02-18 08:08:51,326 - INFO -  * Detected change in 'D:\\InvoiceWebApp\\app.py', reloading
+2026-02-18 08:08:51,365 - INFO -  * Restarting with stat
+2026-02-18 08:08:51,830 - WARNING -  * Debugger is active!
+2026-02-18 08:08:51,835 - INFO -  * Debugger PIN: 115-575-264
+2026-02-18 08:08:57,562 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-18 08:08:57,562 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-18 08:08:57,563 - INFO -  * Restarting with stat
+2026-02-18 08:08:58,051 - WARNING -  * Debugger is active!
+2026-02-18 08:08:58,056 - INFO -  * Debugger PIN: 115-575-264
+2026-02-18 08:10:19,805 - INFO - Uploaded file: Scanned_Document_2.pdf
+2026-02-18 08:10:19,812 - INFO - 127.0.0.1 - - [18/Feb/2026 08:10:19] "POST / HTTP/1.1" 200 -
+2026-02-18 08:11:28,042 - INFO - 127.0.0.1 - - [18/Feb/2026 08:11:28] "GET / HTTP/1.1" 200 -
+2026-02-18 09:20:59,341 - INFO -  * Detected change in 'D:\\InvoiceWebApp\\extract_invoice_assets.py', reloading
+2026-02-18 09:20:59,414 - INFO -  * Restarting with stat
+2026-02-18 09:21:00,027 - WARNING -  * Debugger is active!
+2026-02-18 09:21:00,037 - INFO -  * Debugger PIN: 115-575-264
+2026-02-18 09:21:06,645 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-18 09:21:06,647 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-18 09:21:06,648 - INFO -  * Restarting with stat
+2026-02-18 09:21:07,039 - WARNING -  * Debugger is active!
+2026-02-18 09:21:07,042 - INFO -  * Debugger PIN: 115-575-264
+2026-02-18 09:27:48,334 - INFO - Uploaded file: Scanned_Document_26.pdf
+2026-02-18 09:27:48,358 - INFO - 127.0.0.1 - - [18/Feb/2026 09:27:48] "POST / HTTP/1.1" 200 -
+2026-02-18 09:29:06,778 - INFO - 127.0.0.1 - - [18/Feb/2026 09:29:06] "GET /download/asset_inventory_laptops_20260218_092748.csv HTTP/1.1" 200 -
+2026-02-18 09:30:42,206 - INFO - 127.0.0.1 - - [18/Feb/2026 09:30:42] "GET /download/asset_inventory_accessories_20260218_092748.csv HTTP/1.1" 200 -
+2026-02-18 09:31:15,772 - INFO - 127.0.0.1 - - [18/Feb/2026 09:31:15] "GET / HTTP/1.1" 200 -
+2026-02-18 10:14:48,741 - INFO -  * Detected change in 'D:\\InvoiceWebApp\\extract_invoice_assets.py', reloading
+2026-02-18 10:14:48,839 - INFO -  * Restarting with stat
+2026-02-18 10:14:50,139 - WARNING -  * Debugger is active!
+2026-02-18 10:14:50,149 - INFO -  * Debugger PIN: 115-575-264
+2026-02-18 10:17:19,591 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-18 10:17:19,591 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-18 10:17:19,593 - INFO -  * Restarting with stat
+2026-02-18 10:17:20,143 - WARNING -  * Debugger is active!
+2026-02-18 10:17:20,151 - INFO -  * Debugger PIN: 115-575-264
+2026-02-18 10:17:25,393 - INFO - 127.0.0.1 - - [18/Feb/2026 10:17:25] "GET / HTTP/1.1" 200 -
+2026-02-18 10:17:26,936 - INFO - 127.0.0.1 - - [18/Feb/2026 10:17:26] "GET / HTTP/1.1" 200 -
+2026-02-18 10:17:28,215 - INFO - 127.0.0.1 - - [18/Feb/2026 10:17:28] "GET / HTTP/1.1" 200 -
+2026-02-18 10:25:58,058 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-18 10:25:58,059 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-18 10:25:58,060 - INFO -  * Restarting with stat
+2026-02-18 10:25:58,633 - WARNING -  * Debugger is active!
+2026-02-18 10:25:58,640 - INFO -  * Debugger PIN: 115-575-264
+2026-02-18 10:26:14,587 - INFO - 127.0.0.1 - - [18/Feb/2026 10:26:14] "GET / HTTP/1.1" 200 -
+2026-02-18 11:08:40,320 - INFO - 127.0.0.1 - - [18/Feb/2026 11:08:40] "[33mGET /login HTTP/1.1[0m" 404 -
+2026-02-18 11:10:10,247 - INFO - 127.0.0.1 - - [18/Feb/2026 11:10:10] "[33mGET /login HTTP/1.1[0m" 404 -
+2026-02-18 11:10:22,748 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-18 11:10:22,749 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-18 11:10:22,751 - INFO -  * Restarting with stat
+2026-02-18 11:10:23,488 - WARNING -  * Debugger is active!
+2026-02-18 11:10:23,496 - INFO -  * Debugger PIN: 115-575-264
+2026-02-18 11:10:25,327 - INFO - 127.0.0.1 - - [18/Feb/2026 11:10:25] "[33mGET /login HTTP/1.1[0m" 404 -
+2026-02-18 11:10:25,991 - INFO - 127.0.0.1 - - [18/Feb/2026 11:10:25] "[33mGET /login HTTP/1.1[0m" 404 -
+2026-02-18 11:10:26,704 - INFO - 127.0.0.1 - - [18/Feb/2026 11:10:26] "[33mGET /login HTTP/1.1[0m" 404 -
+2026-02-18 11:10:26,892 - INFO - 127.0.0.1 - - [18/Feb/2026 11:10:26] "[33mGET /login HTTP/1.1[0m" 404 -
